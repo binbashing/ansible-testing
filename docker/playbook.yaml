@@ -1,6 +1,5 @@
 ---
 - name: Install Docker
-  hosts: your_group_name
   become: true
 
   tasks:
