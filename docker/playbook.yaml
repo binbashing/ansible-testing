@@ -1,6 +1,6 @@
 ---
 - name: Install Docker on arm64
-  hosts: your_group_name
+  hosts: all
   become: true
 
   tasks:
